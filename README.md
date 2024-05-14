@@ -1,6 +1,4 @@
-
-
-X-Men '97
+# X-Men '97 ![alt text](image-2.png)
 
 Este é um site dedicado aos personagens da série animada X-Men '97, uma continuação direta da icônica série dos anos 90. Aqui você encontrará informações detalhadas sobre os heróis, vilões e anti-heróis que compõem o universo X-Men nesta nova iteração.
 
@@ -35,8 +33,12 @@ Contribuições são bem-vindas! Se você quiser contribuir para este projeto, s
 4. Faça push para a branch (`git push origin feature/nova-funcionalidade`).
 5. Abra um Pull Request.
 
-## Autor
+## Visualização
 
-Guilherme Machado
+Aqui está uma prévia de como o site aparece(Clique na imagem caso queira acessar o site)
+[<img src="./src/imagens/tela.png">](https://guilherme-silvam.github.io/site-x-men-97/)
 
+## Contato
 
+- E-mail: guisilvam19@gmail.com ou  guilhermemachado019@gmail.com
+- Projeto Link: https://guilherme-silvam.github.io/site-x-men-97/
